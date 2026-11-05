@@ -10,7 +10,7 @@
 *if they don't forget me... **then our hearts will be one**.*\
 *I don't need a weapon. **My friends are my power!***
 
-
+![](/imagenes/sonic.gif)
 
 # Sobre mí 👑♥️
 
