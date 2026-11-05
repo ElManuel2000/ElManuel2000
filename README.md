@@ -1,4 +1,4 @@
-# Bienvenidos a mi perfil de GitHub 🦖🔵
+# Bienvenidos a mi perfil de GitHub ![Yoshi azul](/imagenes/baby-blue.png)
 
 ![Yo](/imagenes/M-Terence.png)
 
@@ -10,10 +10,13 @@
 *if they don't forget me... **then our hearts will be one**.*\
 *I don't need a weapon. **My friends are my power!***
 
-| Escucha mis músicas favoritas<br>[![Sonic](/gifs/dj-sonic.gif)](https://youtu.be/N0vhw4dfMRg?list=RDMM) |
+| Escucha mis músicas favoritas<br>[![Sonic](/gifs/dj-sonic.gif)](https://www.youtube.com/playlist?list=PLXuIRajcpMFI) |
 | - |
 
-# Sobre mí 👑♥️
+# Sobre mí ![Corona](/imagenes/crown.png)
+
+Universitario. Actualmente me encuentro estudiando programación. Apasionado por los videojuegos.
+Los pollos son mis animales favoritos. Camino a ser el mejor Yoshi.
 
 - **Nombre:** Ema
 - **Edad:** 19 años
@@ -56,12 +59,14 @@ Me puedes contactar a través de Discord, *casi* siempre suelo responder. Escrí
 quieres alguien con quien practicar, si quieres hablar sobre algún videojuego o serie, o si te interesa saber más sobre alguno de mis
 futuros proyectos.
 
-- [Discord](https://discord.com/users/800142292206747709)
+[![Discord](/imagenes/discord.png)](https://discord.com/users/800142292206747709)
 
 Por aquí también puedes ver mi actividad o agregarme
 
-- [Steam](https://steamcommunity.com/profiles/76561198809736254/)
-- [Start.gg](https://www.start.gg/user/a0a6089e)
-- [Roblox](https://www.roblox.com/users/381622062/profile)
+[![Steam](/imagenes/steam.png)](https://steamcommunity.com/profiles/76561198809736254/)
+[![Start](/imagenes/startgg.png)](https://www.start.gg/user/a0a6089e)
+[![Roblox](/imagenes/roblox.png)](https://www.roblox.com/users/381622062/profile)
 
 # Gracias por leer nwn
+
+![Despedida](/gifs/yoshi-final.gif)
