@@ -39,11 +39,11 @@ ni con la motivación para empezar a aprender.
 Durante mi vida Universitaria he estudiado y practicado diferentes lenguajes de programación, aunque no me considero un experto
 ni domino ninguno, poseo los conocimientos básicos para empezar a estudiarlos por mi cuenta
 
-- Python
-- Java
-- RStudio
-- SQL
-- Unity
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)<br>
+![RStudio](https://img.shields.io/badge/RStudio-%234285F4.svg?style=for-the-badge&logo=rstudioide&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 # Actividad o experiencia
 
