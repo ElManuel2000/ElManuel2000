@@ -10,7 +10,8 @@
 *if they don't forget me... **then our hearts will be one**.*\
 *I don't need a weapon. **My friends are my power!***
 
-![](/imagenes/sonic.gif)
+| Escucha mis músicas favoritas<br>[![Sonic](/gifs/dj-sonic.gif)](https://youtu.be/N0vhw4dfMRg?list=RDMM) |
+| - |
 
 # Sobre mí 👑♥️
 
@@ -63,4 +64,4 @@ Por aquí también puedes ver mi actividad o agregarme
 - [Start.gg](https://www.start.gg/user/a0a6089e)
 - [Roblox](https://www.roblox.com/users/381622062/profile)
 
-
+# Gracias por leer nwn
