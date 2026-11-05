@@ -1,5 +1,7 @@
 # Bienvenidos a mi perfil de GitHub 🦖🔵
 
+![Yo](/imagenes/M-Terence.png)
+
 *Although my heart may be weak, it's not alone*\
 *It's grown with each new experience,*\
 *and it's found a home with all the friends I've made.*\
@@ -7,6 +9,8 @@
 *And if they think of me now and then...*\
 *if they don't forget me... **then our hearts will be one**.*\
 *I don't need a weapon. **My friends are my power!***
+
+
 
 # Sobre mí 👑♥️
 
